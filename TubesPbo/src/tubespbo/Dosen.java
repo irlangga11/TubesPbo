@@ -9,7 +9,7 @@ package tubespbo;
  *
  * @author Irlangga
  */
-public class Dosen 
+public class Dosen{
     private long Nip;
 	
     public void setNip(long Nip){
